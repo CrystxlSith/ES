@@ -153,8 +153,8 @@ export default function Home() {
                   <span className="text-xs text-cyan-400 block">Actualités</span>
                   <span className="text-xs text-gray-400 block">Il y a 2h</span>
                 </div>
-                <h4 className="text-md font-bold mb-2">L'équipe Fnatic remporte le championnat mondial</h4>
-                <p className="text-gray-400 text-sm line-clamp-2">La finale s'est terminée par un score impressionnant de 3-0 contre les champions en titre...</p>
+                <h4 className="text-md font-bold mb-2">L&apos;équipe Fnatic remporte le championnat mondial</h4>
+                <p className="text-gray-400 text-sm line-clamp-2">La finale s&apos;est terminée par un score impressionnant de 3-0 contre les champions en titre...</p>
               </div>
             </div>
           ))}
